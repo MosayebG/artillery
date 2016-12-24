@@ -3,6 +3,7 @@
 </p>
 <p align="center">
 <em><strong>Artillery</strong> is a modern, powerful, easy-to-use load-testing toolkit.</em>
+<em><strong>ATTENTION: this version, all of scenarios with socketio engine have to use callback</strong></em>
 </p>
 
 <p align="center">
